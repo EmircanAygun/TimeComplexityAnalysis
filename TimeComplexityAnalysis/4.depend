@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647722026 source:c:\users\emirc\desktop\codeblocks\4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647773628 source:c:\users\emirc\desktop\codeblocks\prolab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
